@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: "CopperplateGothic";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/Copperplate-Gothic-Bold-Regular.eot");
+    src: url("../fonts/Copperplate-Gothic-Bold-Regular.woff") format("woff"),
+    url("../fonts/Copperplate-Gothic-Bold-Regular.ttf") format("truetype");
+}
